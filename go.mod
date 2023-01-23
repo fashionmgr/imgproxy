@@ -25,7 +25,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/prometheus/client_golang v1.13.0
 	github.com/sirupsen/logrus v1.9.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	github.com/tdewolff/parse/v2 v2.6.2
 	github.com/trimmer-io/go-xmp v1.0.0
 	go.uber.org/automaxprocs v1.5.1
@@ -33,7 +33,7 @@ require (
 	golang.org/x/net v0.0.0-20220812174116-3211cb980234
 	golang.org/x/sys v0.0.0-20220818161305-2296e01440c6
 	google.golang.org/api v0.93.0
-	gopkg.in/DataDog/dd-trace-go.v1 v1.41.0
+	gopkg.in/DataDog/dd-trace-go.v1 v1.46.1
 )
 
 replace git.apache.org/thrift.git => github.com/apache/thrift v0.0.0-20180902110319-2566ecd5d999
